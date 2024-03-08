@@ -1,7 +1,7 @@
 # Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-domain Few-Shot Learning
 
 <p align="center">
-  <img src="./figures/fsl.png" style="width:60%">
+  <img src="./figures/cdfsl_pipeline.png">
 </p>
 
 
