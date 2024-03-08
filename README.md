@@ -1,12 +1,14 @@
 # Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-domain Few-Shot Learning
 
-[Paper URL-TBA](https://cvpr.thecvf.com/)
+<p align="center">
+  <img src="./figures/fsl.png" style="width:60%">
+</p>
 
-If you find our project helpful, please consider to cite our paper:
 
-```
-TBD: add bibtex
-```
+> [**Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning**](https://arxiv.org/abs/2403.04492),            
+> Rashindrie Perera, Saman Halgamuge,        
+> *CVPR 2024 ([arXiv 2403.04492](https://arxiv.org/abs/2403.04492))*  
+
 
 ## Pre-trained model checkpoints
 
@@ -151,4 +153,19 @@ For example, for evaluating the 5-way-5-shot setting for cifar-fs dataset:
 CUDA_VISIBLE_DEVICES=0 python -u test_extractor_others.py \
     --n_way 5 --k_shot 5 --dataset cifar_fs \
     --checkpoint_path ${PATH_TO_CHECKPOINT} --data_path ${DATASET_PATH} --out_dir ${RESULTS_PATH} 
+```
+
+## Citation
+
+If you find our project helpful, please consider to cite our paper:
+
+```
+@misc{perera2024discriminative,
+      title={Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning}, 
+      author={Rashindrie Perera and Saman Halgamuge},
+      year={2024},
+      eprint={2403.04492},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
