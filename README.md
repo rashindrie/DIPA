@@ -5,9 +5,10 @@
 </p>
 
 
-> [**Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning**](https://arxiv.org/abs/2403.04492),            
-> Rashindrie Perera, Saman Halgamuge,        
-> *CVPR 2024 ([arXiv 2403.04492](https://arxiv.org/abs/2403.04492))*  
+> **Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning** [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Perera_Discriminative_Sample-Guided_and_Parameter-Efficient_Feature_Space_Adaptation_for_Cross-Domain_Few-Shot_CVPR_2024_paper.html)            
+> Rashindrie Perera, Saman Halgamuge
+
+> *[arXiv 2403.04492](https://arxiv.org/abs/2403.04492)*  
 
 
 ## Pre-trained model checkpoints
