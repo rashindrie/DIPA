@@ -160,12 +160,16 @@ CUDA_VISIBLE_DEVICES=0 python -u test_extractor_others.py \
 If you find our project helpful, please consider to cite our paper:
 
 ```
-@misc{perera2024discriminative,
-      title={Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning}, 
-      author={Rashindrie Perera and Saman Halgamuge},
-      year={2024},
-      eprint={2403.04492},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+Rashindrie Perera, Saman Halgamuge; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 23794-23804
+```
+
+```
+@InProceedings{Perera_2024_CVPR,
+    author    = {Perera, Rashindrie and Halgamuge, Saman},
+    title     = {Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {23794-23804}
 }
 ```
