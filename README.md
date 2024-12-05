@@ -1,4 +1,4 @@
-# Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-domain Few-Shot Learning
+# Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-domain Few-Shot Learning (CVPR 2024)
 
 <p align="center">
   <img src="./figures/cdfsl_pipeline.png">
@@ -7,8 +7,10 @@
 
 > **Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning**       
 > Rashindrie Perera, Saman Halgamuge
+>
+> [IEEE Explore Full-Text](https://ieeexplore.ieee.org/document/10654961)
 > 
-> [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Perera_Discriminative_Sample-Guided_and_Parameter-Efficient_Feature_Space_Adaptation_for_Cross-Domain_Few-Shot_CVPR_2024_paper.html)
+> [CVF Open Access](https://openaccess.thecvf.com/content/CVPR2024/html/Perera_Discriminative_Sample-Guided_and_Parameter-Efficient_Feature_Space_Adaptation_for_Cross-Domain_Few-Shot_CVPR_2024_paper.html)
 > 
 > *[arXiv 2403.04492](https://arxiv.org/abs/2403.04492)*  
 
